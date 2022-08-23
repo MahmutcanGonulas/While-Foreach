@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\bin\Debug\net6.0\10-While-Foreach.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\bin\Debug\net6.0\10-While-Foreach.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\bin\Debug\net6.0\10-While-Foreach.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\bin\Debug\net6.0\10-While-Foreach.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\bin\Debug\net6.0\10-While-Foreach.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\10-While-Foreach.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\10-While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\10-While-Foreach.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\10-While-Foreach.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\10-While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\10-While-Foreach.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\refint\10-While-Foreach.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\10-While-Foreach.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\10-While-Foreach.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\10-While-Foreach\obj\Debug\net6.0\ref\10-While-Foreach.dll
